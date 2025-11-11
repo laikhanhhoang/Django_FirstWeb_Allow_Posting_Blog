@@ -29,10 +29,15 @@ This is a website I created following the instructor's guidance during a course 
     <p align="center">
       <img src="update.jpg" width="400">
     </p>
+  - Read (users can also see)
+    <p align="center">
+      <img src="read.jpg" width="400">
+    </p>
   - Delete
     <p align="center">
       <img src="delete.jpg" width="400">
     </p>
+
 
 
 
